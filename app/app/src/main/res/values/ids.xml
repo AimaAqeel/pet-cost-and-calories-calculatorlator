@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvTitle" type="id" />
+    <item name="ivPet" type="id" />
+    <item name="ivCalorie" type="id" />
+</resources>

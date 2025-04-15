@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="age_units">
+        <item>Months</item>
+        <item>Years</item>>app
+    </string-array>
+    <string name="app_name">pet calculator</string>
+</resources>
